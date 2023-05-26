@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Board from './Components/Board'
+import Game from './Components/Game'
 
 
-const App = () => <Board />
+const App = () => <Game />
 
 export default App;
